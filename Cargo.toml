@@ -1,0 +1,8 @@
+[package]
+name = "cp-rs"
+version = "0.1.0"
+authors = ["icand"]
+
+[dependencies]
+chrono = "*"
+regex = "*"
